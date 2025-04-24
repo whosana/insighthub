@@ -20,4 +20,4 @@ streamlit run app.py
 Кафе Латте | Отличное обслуживание! | positive | 55.74321 | 37.62131
 
 ## 👨‍💻 Автор
-Твоё имя | почта@example.com | github.com/твой-ник
+Anna | annavladimirovvnaa@gmail.com | github.com/whosana
